@@ -1,0 +1,93 @@
+C:\Users\Filofej\AppData\Local\Temporary Projects\Joint Project\bin\Debug\Joint Project.exe
+C:\Users\Filofej\AppData\Local\Temporary Projects\Joint Project\bin\Debug\Joint Project.pdb
+C:\Users\Filofej\AppData\Local\Temporary Projects\Joint Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Filofej\AppData\Local\Temporary Projects\Joint Project\obj\x86\Debug\Joint_Project.Properties.Resources.resources
+C:\Users\Filofej\AppData\Local\Temporary Projects\Joint Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Filofej\AppData\Local\Temporary Projects\Joint Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Filofej\AppData\Local\Temporary Projects\Joint Project\obj\x86\Debug\Joint Project.exe
+C:\Users\Filofej\AppData\Local\Temporary Projects\Joint Project\obj\x86\Debug\Joint Project.pdb
+C:\Users\Filofej\AppData\Local\Temporary Projects\Joint Project\obj\x86\Debug\Joint_Project.Form1.resources
+C:\Users\Filofej\Desktop\Joint Project\Joint Project\obj\x86\Debug\Joint Project.exe
+C:\Users\Filofej\Desktop\Joint Project\Joint Project\obj\x86\Debug\Joint Project.pdb
+C:\Users\Filofej\Desktop\Joint Project\Joint Project\bin\Debug\Joint Project.exe
+C:\Users\Filofej\Desktop\Joint Project\Joint Project\bin\Debug\Joint Project.pdb
+C:\Users\Filofej\Desktop\Joint Project\Joint Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Filofej\Desktop\Joint Project\Joint Project\obj\x86\Debug\Joint_Project.Form1.resources
+C:\Users\Filofej\Desktop\Joint Project\Joint Project\obj\x86\Debug\Joint_Project.Properties.Resources.resources
+C:\Users\Filofej\Desktop\Joint Project\Joint Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Filofej\Desktop\Joint Project\Joint Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\FiloFejkO\Desktop\C# Projects and Practicals\Under Development\Joint Project\Joint Project\obj\x86\Debug\Joint Project.exe
+C:\Users\FiloFejkO\Desktop\C# Projects and Practicals\Under Development\Joint Project\Joint Project\obj\x86\Debug\Joint Project.pdb
+C:\Users\FiloFejkO\Desktop\C# Projects and Practicals\Under Development\Joint Project\Joint Project\bin\Debug\Joint Project.exe
+C:\Users\FiloFejkO\Desktop\C# Projects and Practicals\Under Development\Joint Project\Joint Project\bin\Debug\Joint Project.pdb
+C:\Users\FiloFejkO\Desktop\C# Projects and Practicals\Under Development\Joint Project\Joint Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\FiloFejkO\Desktop\C# Projects and Practicals\Under Development\Joint Project\Joint Project\obj\x86\Debug\Joint_Project.Form1.resources
+C:\Users\FiloFejkO\Desktop\C# Projects and Practicals\Under Development\Joint Project\Joint Project\obj\x86\Debug\Joint_Project.Properties.Resources.resources
+C:\Users\FiloFejkO\Desktop\C# Projects and Practicals\Under Development\Joint Project\Joint Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\FiloFejkO\Desktop\C# Projects and Practicals\Under Development\Joint Project\Joint Project\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Under Development\Joint Project\Joint Project\obj\x86\Debug\Joint Project.exe
+G:\Under Development\Joint Project\Joint Project\obj\x86\Debug\Joint Project.pdb
+C:\Users\Filofej\Desktop\Under Development\Joint Project\Joint Project\obj\x86\Debug\Joint Project.exe
+C:\Users\Filofej\Desktop\Under Development\Joint Project\Joint Project\obj\x86\Debug\Joint Project.pdb
+C:\Users\Filofej\Desktop\Under Development\Joint Project\Joint Project\bin\Debug\Joint Project.exe
+C:\Users\Filofej\Desktop\Under Development\Joint Project\Joint Project\bin\Debug\Joint Project.pdb
+C:\Users\Filofej\Desktop\Under Development\Joint Project\Joint Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Filofej\Desktop\Under Development\Joint Project\Joint Project\obj\x86\Debug\Joint_Project.Form1.resources
+C:\Users\Filofej\Desktop\Under Development\Joint Project\Joint Project\obj\x86\Debug\Joint_Project.Properties.Resources.resources
+C:\Users\Filofej\Desktop\Under Development\Joint Project\Joint Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Filofej\Desktop\Under Development\Joint Project\Joint Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\FiloFejkO\Desktop\Under Development\Joint Project\Joint Project\obj\x86\Debug\Joint Project.exe
+C:\Users\FiloFejkO\Desktop\Under Development\Joint Project\Joint Project\obj\x86\Debug\Joint Project.pdb
+C:\Users\FiloFejkO\Desktop\Under Development\Joint Project\Joint Project\bin\Debug\Joint Project.exe
+C:\Users\FiloFejkO\Desktop\Under Development\Joint Project\Joint Project\bin\Debug\Joint Project.pdb
+C:\Users\FiloFejkO\Desktop\Under Development\Joint Project\Joint Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\FiloFejkO\Desktop\Under Development\Joint Project\Joint Project\obj\x86\Debug\Joint_Project.Form1.resources
+C:\Users\FiloFejkO\Desktop\Under Development\Joint Project\Joint Project\obj\x86\Debug\Joint_Project.Properties.Resources.resources
+C:\Users\FiloFejkO\Desktop\Under Development\Joint Project\Joint Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\FiloFejkO\Desktop\Under Development\Joint Project\Joint Project\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Joint Project\Joint Project\obj\x86\Debug\Joint Project.exe
+G:\Joint Project\Joint Project\obj\x86\Debug\Joint Project.pdb
+G:\Joint Project\Joint Project\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Joint Project\Joint Project\obj\x86\Debug\Joint_Project.Form1.resources
+G:\Joint Project\Joint Project\obj\x86\Debug\Joint_Project.Properties.Resources.resources
+G:\Joint Project\Joint Project\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Joint Project\Joint Project\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Joint Project\Joint Project\bin\Debug\Joint Project.exe
+G:\Joint Project\Joint Project\bin\Debug\Joint Project.pdb
+C:\Users\FiloFejkO\Desktop\Joint Project\Joint Project\obj\x86\Debug\Joint Project.exe
+C:\Users\FiloFejkO\Desktop\Joint Project\Joint Project\obj\x86\Debug\Joint Project.pdb
+C:\Users\FiloFejkO\Desktop\Joint Project\Joint Project\bin\Debug\Joint Project.exe
+C:\Users\FiloFejkO\Desktop\Joint Project\Joint Project\bin\Debug\Joint Project.pdb
+C:\Users\FiloFejkO\Desktop\Joint Project\Joint Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\FiloFejkO\Desktop\Joint Project\Joint Project\obj\x86\Debug\Joint_Project.Form1.resources
+C:\Users\FiloFejkO\Desktop\Joint Project\Joint Project\obj\x86\Debug\Joint_Project.Properties.Resources.resources
+C:\Users\FiloFejkO\Desktop\Joint Project\Joint Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\FiloFejkO\Desktop\Joint Project\Joint Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\FiloFejkO\Desktop\C# Projects and Practicals\Programing\Joint Project\Joint Project\obj\x86\Debug\Joint Project.exe
+C:\Users\FiloFejkO\Desktop\C# Projects and Practicals\Programing\Joint Project\Joint Project\obj\x86\Debug\Joint Project.pdb
+F:\Архив моих творений\Programming\C# Projects and Practicals\Programing\Joint Project\Joint Project\obj\x86\Debug\Joint Project.exe
+F:\Архив моих творений\Programming\C# Projects and Practicals\Programing\Joint Project\Joint Project\obj\x86\Debug\Joint Project.pdb
+F:\Архив моих творений\Programming\C# Projects and Practicals\Programming\Joint Project\Joint Project\obj\x86\Debug\Joint Project.exe
+F:\Архив моих творений\Programming\C# Projects and Practicals\Programming\Joint Project\Joint Project\obj\x86\Debug\Joint Project.pdb
+H:\Архив моих творений\Programming\Year 1\Programming\Joint Project\Joint Project\obj\x86\Debug\Joint Project.exe
+H:\Архив моих творений\Programming\Year 1\Programming\Joint Project\Joint Project\obj\x86\Debug\Joint Project.pdb
+H:\Архив моих творений\Programming\Year 1\Programming\Joint Project\Joint Project\bin\Debug\Joint Project.exe
+H:\Архив моих творений\Programming\Year 1\Programming\Joint Project\Joint Project\bin\Debug\Joint Project.pdb
+H:\Архив моих творений\Programming\Year 1\Programming\Joint Project\Joint Project\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Архив моих творений\Programming\Year 1\Programming\Joint Project\Joint Project\obj\x86\Debug\Joint_Project.Form1.resources
+H:\Архив моих творений\Programming\Year 1\Programming\Joint Project\Joint Project\obj\x86\Debug\Joint_Project.Properties.Resources.resources
+H:\Архив моих творений\Programming\Year 1\Programming\Joint Project\Joint Project\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Архив моих творений\Programming\Year 1\Programming\Joint Project\Joint Project\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Архив моих творений\IT Carlow Game Dev Course\Year 1\Programming\Joint Project\Joint Project\obj\x86\Debug\Joint Project.exe
+G:\Архив моих творений\IT Carlow Game Dev Course\Year 1\Programming\Joint Project\Joint Project\obj\x86\Debug\Joint Project.pdb
+D:\My Local Repository\MeshArachna Invasion\Joint Project\bin\Debug\Joint Project.exe.config
+D:\My Local Repository\MeshArachna Invasion\Joint Project\bin\Debug\Joint Project.exe
+D:\My Local Repository\MeshArachna Invasion\Joint Project\bin\Debug\Joint Project.pdb
+D:\My Local Repository\MeshArachna Invasion\Joint Project\obj\x86\Debug\Joint Project.csproj.AssemblyReference.cache
+D:\My Local Repository\MeshArachna Invasion\Joint Project\obj\x86\Debug\Joint Project.csproj.SuggestedBindingRedirects.cache
+D:\My Local Repository\MeshArachna Invasion\Joint Project\obj\x86\Debug\Joint_Project.Form1.resources
+D:\My Local Repository\MeshArachna Invasion\Joint Project\obj\x86\Debug\Joint_Project.Properties.Resources.resources
+D:\My Local Repository\MeshArachna Invasion\Joint Project\obj\x86\Debug\Joint Project.csproj.GenerateResource.cache
+D:\My Local Repository\MeshArachna Invasion\Joint Project\obj\x86\Debug\Joint Project.csproj.CoreCompileInputs.cache
+D:\My Local Repository\MeshArachna Invasion\Joint Project\obj\x86\Debug\Joint Project.exe
+D:\My Local Repository\MeshArachna Invasion\Joint Project\obj\x86\Debug\Joint Project.pdb
