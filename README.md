@@ -1,2 +1,25 @@
 # MechArachnaInvasion-2011-
-This is one of the first projects I ever coded back in 2011
+This is one of the first projects I ever coded back in 2011 using C# Forms and Visual Studio 11. The project was lighlty retouched in 2022.
+
+Project Features:
+  •	SIMPLE GRAVITY
+  •	JUMPS AT A DIRECTION RELATIVE TO MOUSE POSITION
+  •	STAMINA BAR AND AMMO BAR. HEALTH DISPLAYED IN THE SAME WAY
+  •	MEDIPACKS AND AMMO
+  •	PLAYER CAN SHOOT 360 DEGREES
+  •	USES CLASSES, SUB-CLASSES AND ARRAYS FOR SIMPLICITY
+  •	SELF-DRAWN SPRITES
+  •	SELF-BUILD LEVEL BY IN-PROGRAM CREATED LEVEL BUILDER (SAVED ABOUT 6-7 HOURS OF MY TIME)
+  •	AUTOMATED COLLISION DETECTION
+  •	ITEMS SPAWN AFTER 1 MINUTE
+  •	(DEDICATE TO MINECRAFT) RECTANGULAR CLOUDS
+  •	RESTART BUTTON
+  ----------------------
+  BUGS:
+    - SCREEN FLICKERS (for some computers)
+    - COULDN'T MAKE PROPER COLLISION DETECTION FOR WALLS WHEN PLAYER JUMPS ON TOP OF IT OR HITS IT UNDERGROUND, SO I WILL USE THEM IN COMBINATION WITH FLOORS (MINOR)
+  ----------------------
+  DESCRIPTION: THIS IS A SIDE-VIEW PLATFORMER WHERE PLAYER SHALL STAND AGAINST INFINITE AMOUNT OF ROBOTHIC SPIDERS WITH LOW AMMO AND TRY TO GET THE HIGH SCORE
+
+Important Note: While I inteded to keep this project unaltered, I have one change:
+-I have modified the path names to images and used Environment.CurrentDirectory to get correct paths to the images.
