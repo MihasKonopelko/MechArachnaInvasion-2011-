@@ -3,42 +3,54 @@ This is one of the first projects I ever coded back in 2011 using C# Forms and V
 
 Project Features:
 
-  •	SIMPLE GRAVITY
+  •	Simple gravity
   
-  •	JUMPS AT A DIRECTION RELATIVE TO MOUSE POSITION
+  •	Jumps at a direction relative to mouse position
   
-  •	STAMINA BAR AND AMMO BAR. HEALTH DISPLAYED IN THE SAME WAY
+  •	Stamina bar and ammo bar. health displayed in the same way
   
-  •	MEDIPACKS AND AMMO
+  •	Medipacks and ammo
   
-  •	PLAYER CAN SHOOT 360 DEGREES
+  •	Player can shoot 360 degrees
   
-  •	USES CLASSES, SUB-CLASSES AND ARRAYS FOR SIMPLICITY
+  •	Uses classes, sub-classes and arrays for simplicity
   
-  •	SELF-DRAWN SPRITES
+  •	Self-drawn sprites
   
-  •	SELF-BUILD LEVEL BY IN-PROGRAM CREATED LEVEL BUILDER (SAVED ABOUT 6-7 HOURS OF MY TIME)
+  •	Self-build level by in-program created level builder (saved about 6-7 hours of my time)
   
-  •	AUTOMATED COLLISION DETECTION
+  •	Automated collision detection
   
-  •	ITEMS SPAWN AFTER 1 MINUTE
+  •	Items spawn after 1 minute
   
-  •	(DEDICATE TO MINECRAFT) RECTANGULAR CLOUDS
+  •	(dedicate to minecraft) rectangular clouds
   
-  •	RESTART BUTTON
+  •	Restart button
   
+---------------------- 
+Controls:
+
+•	A & D to move left and right
+
+•	Space to jump
+
+•	Left Mouse Button to turn on and turn off the laser beam
+
+•	R to restart the game
+
 ----------------------
+
+Bugs:
+
+•	Screen flickers (for some computers)
   
-  BUGS:
-  
-  - SCREEN FLICKERS (for some computers)
-  
-  - COULDN'T MAKE PROPER COLLISION DETECTION FOR WALLS WHEN PLAYER JUMPS ON TOP OF IT OR HITS IT UNDERGROUND, SO I WILL USE THEM IN COMBINATION WITH FLOORS (MINOR)
+•	Couldn't make proper collision detection for walls when player jumps on top of it or hits it underground, so i will use them in combination with floors (minor)
  
 ----------------------
 
-DESCRIPTION: THIS IS A SIDE-VIEW PLATFORMER WHERE PLAYER SHALL STAND AGAINST INFINITE AMOUNT OF ROBOTHIC SPIDERS WITH LOW AMMO AND TRY TO GET THE HIGH SCORE
+Description: this is a side-view platformer where player shall stand against infinite amount of robothic spiders with low ammo and try to get the high score
 
+----------------------
 
-Important Note: While I inteded to keep this project unaltered, I have one change:
+Important Note: while I inteded to keep this project unaltered, I have one change:
 -I have modified the path names to images and used Environment.CurrentDirectory to get correct paths to the images.
